@@ -1,4 +1,4 @@
-Zugangsdaten für Backnend
+Zugangsdaten für Backend
 
 Benutzername: emma
 Passwort: password
